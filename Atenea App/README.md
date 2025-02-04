@@ -1,6 +1,49 @@
-
  <img src="colegio.png" alt="Image description" width="200px" height="100">
 <h1>Colegio Atenea</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Technology</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Framework</td>
+        <td>Flutter</td>
+      </tr>
+      <tr>
+        <td>Programming Language</td>
+        <td>Dart</td>
+      </tr>
+      <tr>
+        <td>Application Type</td>
+        <td>Cross-Platform</td>
+      </tr>
+      <tr>
+        <td>Push Notification</td>
+        <td>Firebase Push Notifications</td>
+      </tr>
+      <tr>
+        <td>Version Control</td>
+        <td>GitLab</td>
+      </tr>
+      <tr>
+        <td>IDE/Editor</td>
+        <td>Android Studio, Xcode</td>
+      </tr>
+      <tr>
+        <td>State Management</td>
+        <td>Provider</td>
+      </tr>
+      <tr>
+        <td>Localization</td>
+        <td>GetX</td>
+      </tr>
+    </tbody>
+  </table>
+
 
 <h2>App Links&nbsp:</h2>
 
