@@ -1,5 +1,5 @@
 
- <img src="LogoApp_512x512.png" alt="Image description" width="200px" height="100">
+ <img src="colegio.png" alt="Image description" width="200px" height="100">
 <h1>Colegio Atenea</h1>
 
 <h2>App Links&nbsp:</h2>
@@ -8,7 +8,7 @@
   <li>Android : <a href="https://play.google.com/store/apps/details?id=com.atenea.colegioatenea.colegia_atenea&pcampaignid=web_share" target="_self">Atenea App</a></li>
     <li>IOS : <a href="https://apps.apple.com/in/app/atenea-app/id6470358478****" target="_self">Atenea App</a></li>
 </ol>
-
+<h2>App Description&nbsp:</h2>
 <table>
   <tr>
                 <td><strong>For Students</strong></td>
@@ -40,19 +40,12 @@
                     </ul>
                 </td>
             </tr>
-            <tr>
-                <td><strong>For Assistants</strong></td>
-                <td>
-                    <ul>
-                        <li>Administrative tools for managing student data, attendance, and event schedules.</li>
-                        <li>Integration with the school’s communication channels to ensure smooth daily operations.</li>
-                        <li>Capability to update announcements and ensure the proper functioning of app features.</li>
-                    </ul>
-                </td>
-            </tr>
+            
 
   
 </table>
+
+<h2>App Screenshots&nbsp:</h2>
 
 <table>
   <tr>
