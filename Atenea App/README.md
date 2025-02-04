@@ -1,5 +1,5 @@
 
- <img src="image.jpg" alt="Image description">
+ <img src="LogoApp_512x512.png" alt="Image description" width="200px" height="100">
 <h1>Colegio Atenea</h1>
 
 <h2>App Links&nbsp:</h2>
