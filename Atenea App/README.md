@@ -4,6 +4,7 @@
 
 <ol>
   <li>Android : <a href="https://play.google.com/store/apps/details?id=com.atenea.colegioatenea.colegia_atenea&pcampaignid=web_share" target="_self">Atenea App</a></li>
+    <li>IOS : <a href="https://apps.apple.com/in/app/atenea-app/id6470358478****" target="_self">Atenea App</a></li>
 </ol>
 
 <table>
