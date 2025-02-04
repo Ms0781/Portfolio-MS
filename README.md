@@ -3,10 +3,6 @@
 
 Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nearly **3 years of experience** in **cross-platform and native application development**. I specialize in **Flutter, Dart, Android (Java/Kotlin), Firebase**, and have successfully delivered applications for international clients on both the **Google Play Store** and **App Store**.
 
-## 📱 **About Me**
-- 🏗 **Expertise**: Cross-platform & Nativ Android Development
-- 🔥 **Tech Stack**: Flutter, Dart, Java, Firebase Firestore, Realtime Database
-
 ## 🛠 **Skills & Technologies**
 
 | Category | Skills |
