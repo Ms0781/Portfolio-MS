@@ -7,22 +7,11 @@ Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nea
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Dart, Java, Kotlin |
-| **Mobile Development** | Flutter, Android (Native) |
+| **Languages** | Dart, Java|
+| **Mobile Development** | Flutter, Android (Native Development) |
 | **Local Storage** | Shared Preferences, Sqflite|
 | **VCS** | GitHub, GitLab, Bitbuket|
 | **Tools & Services** | Push Notifications, Google Ads, Firebase Cloud Messaging, Application Deployment Android and IOS, Android Studio, Xcode, VS code|
-
-## 🌟 **Projects**
-### 📌 **[Project Name 1]** *(Flutter | Firebase)*  
-📝 **Description**: Brief description of your project and its features.  
-🔗 **Live Demo**: [Play Store/App Store Link](#) *(if available)*  
-📂 **Repository**: [GitHub Repo](#)
-
-### 📌 **[Project Name 2]** *(Android Native | Java)*  
-📝 **Description**: Brief description of the project and challenges solved.  
-🔗 **Live Demo**: [Play Store/App Store Link](#) *(if available)*  
-📂 **Repository**: [GitHub Repo](#)  
 
 ## 📫 **Connect With Me**
 - 💼 **LinkedIn**: https://www.linkedin.com/in/ms0781/
