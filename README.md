@@ -26,8 +26,7 @@ Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nea
 
 ## 📫 **Connect With Me**
 - 💼 **LinkedIn**: https://www.linkedin.com/in/ms0781/
-- 🌐 **Portfolio Website**: [Your Website](#)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: saadvarish21@gmail.com
 
 ---
 
