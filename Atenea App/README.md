@@ -25,3 +25,12 @@
     <td><strong>Timetable</strong></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td><img src="08.jpg" alt="Image 1" width="200" height="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>Prefessors</strong></td>
+  </tr>
+</table>
