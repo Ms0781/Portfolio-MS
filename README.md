@@ -16,9 +16,9 @@ Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nea
 |----------|--------|
 | **Languages** | Dart, Java, Kotlin |
 | **Mobile Development** | Flutter, Android (Native) |
-| **Backend & Database** | Firebase Firestore, Realtime Database |
+| **Backend & Database** | Firebase Firestore, Realtime Database,Firebase Firestore, SQL|
 | **Tools & Services** | Git, GitHub, Android Studio, VS Code |
-| **Other** | Push Notifications, Google Ads, BLE Integration |
+| **Other** | Push Notifications, Google Ads,Firebase Cloud Messaging, Application Deployment,|
 
 ## 🌟 **Projects**
 ### 📌 **[Project Name 1]** *(Flutter | Firebase)*  
@@ -30,10 +30,6 @@ Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nea
 📝 **Description**: Brief description of the project and challenges solved.  
 🔗 **Live Demo**: [Play Store/App Store Link](#) *(if available)*  
 📂 **Repository**: [GitHub Repo](#)
-
-## 🎖 **Certifications & Achievements**
-- ✅ Google Flutter & Firebase Certifications *(if applicable)*
-- 🏆 Hackathon Participation & Awards *(if any)*
 
 ## 📫 **Connect With Me**
 - 💼 **LinkedIn**: [Your LinkedIn](#)
