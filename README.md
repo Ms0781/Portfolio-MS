@@ -4,11 +4,8 @@
 Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nearly **3 years of experience** in **cross-platform and native application development**. I specialize in **Flutter, Dart, Android (Java/Kotlin), Firebase**, and have successfully delivered applications for international clients on both the **Google Play Store** and **App Store**.
 
 ## 📱 **About Me**
-- 🏗 **Expertise**: Cross-platform & native mobile app development
+- 🏗 **Expertise**: Cross-platform & Nativ Android Development
 - 🔥 **Tech Stack**: Flutter, Dart, Java, Firebase Firestore, Realtime Database
-- 📲 **Experience**: Push Notifications, Google Ads, In-App Purchases
-- 🎯 **Projects**: Worked on BLE-integrated apps, school management systems, and more
-- 🌍 **Client Base**: Successfully delivered apps for international clients
 
 ## 🛠 **Skills & Technologies**
 
@@ -16,9 +13,10 @@ Welcome to my GitHub portfolio! I am a **Mobile Application Developer** with nea
 |----------|--------|
 | **Languages** | Dart, Java, Kotlin |
 | **Mobile Development** | Flutter, Android (Native) |
-| **Backend & Database** | Firebase Firestore, Realtime Database,Firebase Firestore, SQL|
-| **Tools & Services** | Git, GitHub, Android Studio, VS Code |
-| **Other** | Push Notifications, Google Ads,Firebase Cloud Messaging, Application Deployment,|
+| **Local Storage** | Shared Preferences, Sqflite|
+| **VCS** | GitHub,GitLab,Bitbuket|
+| **Tools & Services** | Android Studio,Xcode,VS code|
+| **Other** | Push Notifications, Google Ads,Firebase Cloud Messaging, Application Deployment|
 
 ## 🌟 **Projects**
 ### 📌 **[Project Name 1]** *(Flutter | Firebase)*  
