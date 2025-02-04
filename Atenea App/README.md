@@ -1,3 +1,5 @@
+
+ <img src="image.jpg" alt="Image description">
 <h1>Colegio Atenea</h1>
 
 <h2>App Links&nbsp:</h2>
