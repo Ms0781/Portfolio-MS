@@ -1,1 +1,58 @@
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <th>App Name</th>
+    <th>Android</th>
+    <th>iOS</th>
+  </tr>
+  <tr>
+    <td>Task Manager App</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>E-commerce Platform</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Fitness Tracker</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Food Delivery App</td>
+    <td>✅</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Travel Booking App</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>School Management App</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Soap Business Web App</td>
+    <td>✅ (Web)</td>
+    <td>✅ (Web)</td>
+  </tr>
+  <tr>
+    <td>FitMe Fitness App</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>BLE Device Controller App</td>
+    <td>✅</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Chat App with Group Chats</td>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+</table>
 
