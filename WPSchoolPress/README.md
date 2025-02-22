@@ -1,6 +1,6 @@
 WPSchoolPress :
 
-web site regarding app details : https://wpschoolpress.com/
+Web site regarding app details : https://wpschoolpress.com/
 
 Play store : 
 
