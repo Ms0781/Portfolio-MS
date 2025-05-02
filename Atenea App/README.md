@@ -5,7 +5,7 @@
     <thead>
       <tr>
         <th>Category</th>
-        <th>Technology</th>
+        <th>Technology/Tools</th>
       </tr>
     </thead>
     <tbody>
