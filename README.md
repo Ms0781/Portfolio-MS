@@ -1,7 +1,7 @@
 🚀 Mahammadsad Shaikh - Mobile App Developer
 
 
-Welcome to my GitHub portfolio! I am a Mobile Application Developer with more than three years of experience in cross-platform and native application development. I specialize in Flutter, Dart, Android (Java/Kotlin), and Firebase and have successfully delivered applications for international clients on both the Google Play Store and the App Store.
+Welcome to my GitHub Portfolio! I am a Mobile Application Developer with more than three years of experience in cross-platform and native application development. I specialize in Flutter, Dart, Android (Java/Kotlin), and Firebase and have successfully delivered applications for international clients on both the Google Play Store and the App Store.
 
 ## 🛠 **Skills & Technologies**
 
