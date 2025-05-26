@@ -59,9 +59,18 @@ This app requires the [WPSchoolPress WordPress Plugin](https://wpschoolpress.com
 
 ---
 
+
 ## 📸 Screenshots
 
-> _Add screenshots here to showcase the UI for Student and Parent roles._
+| 🏠 Login Screen                  | 📊 Dashboard                   | 🧾 Grades View                  |
+|:-------------------------------:|:------------------------------:|:-------------------------------:|
+| <img src="assets/Login.webp" height="240" />      | <img src="assets/Dashboard.webp" height="240" /> | <img src="assets/Grades.webp" height="240" />  |
+
+| 📚 Subjects Overview             | 🧍‍♂️ Student Profile Details    | 📆 Events Page                 |
+|:-------------------------------:|:------------------------------:|:-------------------------------:|
+| <img src="assets/Subjects.webp" height="240" /> | <img src="assets/StudentProfileDetails.webp" height="240" /> | <img src="assets/Events.webp" height="240" />  |
+
+
 
 ---
 
