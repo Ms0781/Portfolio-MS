@@ -57,8 +57,14 @@ The **WPSchoolPress Mobile App** enhances school operations by offering real-tim
 
 This app requires the [WPSchoolPress WordPress Plugin](https://wpschoolpress.com/) to be installed on your school’s website. All data is synced through the plugin’s REST API.
 
----
+-----
 
+## Login Credentials :
+
+For Student : student/student
+For Parnet : parent/parent
+
+-----
 
 ## 📸 Screenshots
 
